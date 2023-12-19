@@ -5,6 +5,7 @@ psvm()
 {
 add();
 sub();
-Mul();
+mul();
+mod();
 }
 }
